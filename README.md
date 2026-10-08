@@ -10,6 +10,9 @@ Aqui compartilho meus projetos, estudos e soluções que venho construindo.
 
 ### Projetos
 
-- [Site Grupo G3](https://github.com/GBugliani/Site-Grupo-G3)
-- [SCGR](https://github.com/GBugliani/SCGR)
-- [Habit Tracker](https://github.com/GBugliani/habit_tracker)
+-[GBugliani/webcrawler](https://github.com/GBugliani/webcrawler)
+-[temporal-coupling](https://github.com/GBugliani/temporal-coupling)
+-[url-monitor](https://github.com/GBugliani/url-monitor)
+-[sql-query-builder](https://github.com/GBugliani/sql-query-builder)
+-[habit_tracker](https://github.com/GBugliani/habit_tracker)
+-[ClipboardManager](https://github.com/GBugliani/ClipboardManager)
