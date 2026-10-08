@@ -1,16 +1,15 @@
-## Hi there 👋
+# Guilherme Bugliani
 
-<!--
-**GBugliani/GBugliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de software · São Paulo, Brasil
 
-Here are some ideas to get you started:
+Aqui compartilho meus projetos, estudos e soluções que venho construindo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/guilhermebugliani/)
+
+---
+
+### Projetos
+
+- [Site Grupo G3](https://github.com/GBugliani/Site-Grupo-G3)
+- [SCGR](https://github.com/GBugliani/SCGR)
+- [Habit Tracker](https://github.com/GBugliani/habit_tracker)
