@@ -1,31 +1,23 @@
-# Guilherme Bugliani
+# Olá, tudo bem? 👋
 
-### Projetos
+Sou o Guilherme, Desenvolvedor Full Stack com foco em C# e .NET. Trabalho com APIs, integrações e aplicações.
 
-- [webcrawler](https://github.com/GBugliani/webcrawler)
-- [temporal-coupling](https://github.com/GBugliani/temporal-coupling)
-- [url-monitor](https://github.com/GBugliani/url-monitor)
-- [sql-query-builder](https://github.com/GBugliani/sql-query-builder)
-- [habit_tracker](https://github.com/GBugliani/habit_tracker)
-- [ClipboardManager](https://github.com/GBugliani/ClipboardManager)
+## Sobre
 
----
+Tenho 4 anos de experiência em desenvolvimento de software, com atuação em APIs REST, microsserviços e soluções de alta disponibilidade. Minha principal stack é .NET, com C#, .NET 6/8 e ASP.NET. Também atuo com Angular, TypeScript, Node.js, Ionic e Python.
 
-### Linguagens
+## Techs and Tools
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,git&theme=dark" alt="C#, .NET, React, JavaScript, HTML, CSS e Git" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ruby,python,react,mysql,nodejs&theme=dark" alt="C#, .NET, JavaScript, Ruby, Python, React, SQL, Node" />
 
----
+## Contact
 
-### Contatos
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernanda-mota-53b33b2a6/">
-    <img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/imn4nda/">
-    <img loading="lazy" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:fernanda.ml.0606@gmail.com">
-    <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/guilherme-bugliani/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/guibugliani/">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+</a>
+<a href="mailto:guilhermebugliani.dev@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="E-mail" />
+</a>
