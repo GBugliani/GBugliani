@@ -15,9 +15,6 @@ Tenho 4 anos de experiência em desenvolvimento de software, com atuação em AP
 <a href="https://www.linkedin.com/in/guilherme-bugliani/">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/guibugliani/">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
-</a>
 <a href="mailto:guilhermebugliani.dev@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="E-mail" />
 </a>
