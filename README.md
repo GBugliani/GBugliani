@@ -12,7 +12,7 @@ Tenho 4 anos de experiência em desenvolvimento de software, com atuação em AP
 
 ## Contact
 
-[Visite meu portfólio]([guilhermebugliani.me](https://guilhermebugliani.me/))
+[Visite meu portfólio](https://guilhermebugliani.me/)
 
 <a href="https://www.linkedin.com/in/guilhermebugliani/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/guibugliani"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
